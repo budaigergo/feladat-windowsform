@@ -1,0 +1,22 @@
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\bin\Debug\winform feladat.exe.config
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\bin\Debug\winform feladat.exe
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\bin\Debug\winform feladat.pdb
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\obj\Debug\winform feladat.csproj.AssemblyReference.cache
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\obj\Debug\winform feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\obj\Debug\winform_feladat.Form1.resources
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\obj\Debug\winform_feladat.Properties.Resources.resources
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\obj\Debug\winform feladat.csproj.GenerateResource.cache
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\obj\Debug\winform feladat.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\obj\Debug\winform feladat.exe
+C:\Users\Gergő\source\repos\winform feladat\winform feladat\obj\Debug\winform feladat.pdb
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\bin\Debug\winform feladat.exe.config
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\bin\Debug\winform feladat.exe
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\bin\Debug\winform feladat.pdb
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\obj\Debug\winform feladat.csproj.AssemblyReference.cache
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\obj\Debug\winform feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\obj\Debug\winform_feladat.Form1.resources
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\obj\Debug\winform_feladat.Properties.Resources.resources
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\obj\Debug\winform feladat.csproj.GenerateResource.cache
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\obj\Debug\winform feladat.csproj.CoreCompileInputs.cache
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\obj\Debug\winform feladat.exe
+C:\Users\Gergő\Desktop\winform feladat\winform feladat\obj\Debug\winform feladat.pdb
